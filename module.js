@@ -61,7 +61,4 @@ function saveData(jsonPath, newName, overwrite) {
     }
 }
 
-//saveData(path.join(__dirname, 'read.json'), 'Nowyfolder', true);
-
-
 module.exports = saveData;
